@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Mohammad Tabaza</title>
+      <link>https://tabaza.dev</link>
+      <description>Last 10 notes on Mohammad Tabaza</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>I Hope Swift Wins</title>
+    <link>https://tabaza.dev/Bits/I-Hope-Swift-Wins</link>
+    <guid>https://tabaza.dev/Bits/I-Hope-Swift-Wins</guid>
+    <description>Apple’s Swift is shaping up to be potentially one of the best languages for writing server-side apps. It seems Apple is really pushing the language in ways that make it more accessible to more developers.</description>
+    <pubDate>Thu, 20 Jun 2024 21:00:00 GMT</pubDate>
+  </item><item>
+    <title>Atlas Is the Best DB Migration Tool</title>
+    <link>https://tabaza.dev/Bits/Atlas-Is-the-Best-DB-Migration-Tool</link>
+    <guid>https://tabaza.dev/Bits/Atlas-Is-the-Best-DB-Migration-Tool</guid>
+    <description>Ariga’s Atlas database migration tool is hands-down THE best migration tool out there. The way it works is wonderfully simple and innovative. The main advantage of Atlas over other tools is that it allows a “declarative workflow”.</description>
+    <pubDate>Mon, 20 May 2024 21:00:00 GMT</pubDate>
+  </item><item>
+    <title>DevOps - The Simple Version</title>
+    <link>https://tabaza.dev/Blog/DevOps---The-Simple-Version</link>
+    <guid>https://tabaza.dev/Blog/DevOps---The-Simple-Version</guid>
+    <description>DevOps has gotten to the point where it’s not even easy to define. The field has a lot of history, and with it comes scary terms like “Continuous Integration”, “Container Orchestration”, and worse.</description>
+    <pubDate>Thu, 25 Apr 2024 21:00:00 GMT</pubDate>
+  </item><item>
+    <title>Do Not Re-Invent the Wheel</title>
+    <link>https://tabaza.dev/Bits/Do-Not-Re-Invent-the-Wheel</link>
+    <guid>https://tabaza.dev/Bits/Do-Not-Re-Invent-the-Wheel</guid>
+    <description>You’re a developer, and you’ve likely heard this before: Don’t re-invent the wheel. That’s damn good advice. It keeps surprising me how deeply wise these four words are - the product of thousands of hours sunk in solutions to already-solved problems.</description>
+    <pubDate>Mon, 15 Apr 2024 21:00:00 GMT</pubDate>
+  </item><item>
+    <title>Hi 👋</title>
+    <link>https://tabaza.dev/</link>
+    <guid>https://tabaza.dev/</guid>
+    <description>Co-founder at Open.cx (YC W24). Read Blog Follow on X Connect on LinkedIn What I Do mindmap root((Experience)) ((Backend Dev)) ((Scala)) (Typelevel) (Tapir) (Caliban) ((Kotlin)) (Spring Boot) (Ktor) (Jooq) ((Elixir)) (Ecto) (Absinthe) (Phoenix) ((JS/TS)) (Express) (NestJS) (tRPC) ((Frontend Dev)) (React) (Next.js) (Shadcn) (RxJS) (Tailwind) (TyprScript) (ReScript) ((DevOps)) ((Kubernetes)) (GitHub Actions) ((Observability)) (OpenTelemetry) (Grafana Stack) ((Google Cloud)) (Cloud Run) (Compute Engine) (Cloud SQL) (Memorystore) (Pub/Sub) (Cloud Storage) (Cloud Batch) (Dataform) ((Databases)) (PostgreSQL) (MySQL) (Redis) (Elasticsearch) (BigQuery) .</description>
+    <pubDate>Sat, 09 Mar 2024 21:00:00 GMT</pubDate>
+  </item><item>
+    <title>Mindless Learning</title>
+    <link>https://tabaza.dev/Bits/Mindless-Learning</link>
+    <guid>https://tabaza.dev/Bits/Mindless-Learning</guid>
+    <description>One useful approach to studying any field is to mindlessly consume related content until you are able to criticize, and rationalize its basic concepts, then dig deeper ...</description>
+    <pubDate>Sun, 09 Apr 2023 21:00:00 GMT</pubDate>
+  </item><item>
+    <title>How two WhatsApp Chat Bots had a Fight</title>
+    <link>https://tabaza.dev/Bits/How-two-WhatsApp-Chat-Bots-had-a-Fight</link>
+    <guid>https://tabaza.dev/Bits/How-two-WhatsApp-Chat-Bots-had-a-Fight</guid>
+    <description>Would you like to know how two Whatsapp chat bots had a fight? Being an engineer at a tech startup, you get to witness many strange occurrences. This is one of the funniest I’ve come across.</description>
+    <pubDate>Thu, 13 Oct 2022 21:00:00 GMT</pubDate>
+  </item><item>
+    <title>Functional Programming - The Simple Version</title>
+    <link>https://tabaza.dev/Blog/Functional-Programming---The-Simple-Version</link>
+    <guid>https://tabaza.dev/Blog/Functional-Programming---The-Simple-Version</guid>
+    <description> I think functional programming (FP) has become a necessary skill to have for any software developer or programmer in general. Considering the tools used in industry today, like React.js, Elm, and all the popular functional languages, you don’t want to miss out on all the awesomeness.</description>
+    <pubDate>Fri, 07 Feb 2020 22:00:00 GMT</pubDate>
+  </item><item>
+    <title>A Guide to Scala 3</title>
+    <link>https://tabaza.dev/Blog/A-Guide-to-Scala-3</link>
+    <guid>https://tabaza.dev/Blog/A-Guide-to-Scala-3</guid>
+    <description> Scala 3 comes with many amazing new features. This article attempts to explain the most notable ones, so it is by no means comprehensive. It is, however, a very good introduction to these concepts for beginner to intermediate-level Scala programmers.</description>
+    <pubDate>Thu, 24 Oct 2019 21:00:00 GMT</pubDate>
+  </item><item>
+    <title>The Scala Collections Library</title>
+    <link>https://tabaza.dev/Blog/The-Scala-Collections-Library</link>
+    <guid>https://tabaza.dev/Blog/The-Scala-Collections-Library</guid>
+    <description> One of my favorite features of Scala is the amazingly rich standard collections library. Normally, languages try not to make any assumptions about your preferences of the algorithms used to implement certain operations on data structures, so they don’t provide implementations for these operations at all.</description>
+    <pubDate>Fri, 13 Sep 2019 21:00:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
